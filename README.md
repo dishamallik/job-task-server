@@ -11,5 +11,5 @@ This repository contains the backend services for the eMart platform. It is buil
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/dishamallik/job-task-server
+   git clone https://github.com/dishamallik/job-task-server.git
    cd emart-backend
